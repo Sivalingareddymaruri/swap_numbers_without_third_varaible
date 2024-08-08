@@ -1,0 +1,6 @@
+a=int(input("enter first number"))
+b=int(input("enter second number"))
+a=a+b #we can use this also a=a^b
+b=a-b #b=a^b
+a=a-b #a=a^b
+print("the numbers a and b after swapping are %d %d",a,b)
